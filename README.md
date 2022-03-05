@@ -11,3 +11,5 @@ Skills: Javascript, html, css, php (More soon)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=discord-sourcedev&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/discord-sourcedev)  
+
+blablabla
